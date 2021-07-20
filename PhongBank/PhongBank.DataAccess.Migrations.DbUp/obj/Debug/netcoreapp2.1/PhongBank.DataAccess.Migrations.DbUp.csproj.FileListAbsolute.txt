@@ -1,0 +1,12 @@
+C:\Users\vvphong\source\repos\PhongBank\PhongBank.DataAccess.Migrations.DbUp\obj\Debug\netcoreapp2.1\PhongBank.DataAccess.Migrations.DbUp.csproj.AssemblyReference.cache
+C:\Users\vvphong\source\repos\PhongBank\PhongBank.DataAccess.Migrations.DbUp\obj\Debug\netcoreapp2.1\PhongBank.DataAccess.Migrations.DbUp.AssemblyInfoInputs.cache
+C:\Users\vvphong\source\repos\PhongBank\PhongBank.DataAccess.Migrations.DbUp\obj\Debug\netcoreapp2.1\PhongBank.DataAccess.Migrations.DbUp.AssemblyInfo.cs
+C:\Users\vvphong\source\repos\PhongBank\PhongBank.DataAccess.Migrations.DbUp\obj\Debug\netcoreapp2.1\PhongBank.DataAccess.Migrations.DbUp.csproj.CoreCompileInputs.cache
+C:\Users\vvphong\source\repos\PhongBank\PhongBank.DataAccess.Migrations.DbUp\bin\Debug\netcoreapp2.1\PhongBank.DataAccess.Migrations.DbUp.deps.json
+C:\Users\vvphong\source\repos\PhongBank\PhongBank.DataAccess.Migrations.DbUp\bin\Debug\netcoreapp2.1\PhongBank.DataAccess.Migrations.DbUp.runtimeconfig.json
+C:\Users\vvphong\source\repos\PhongBank\PhongBank.DataAccess.Migrations.DbUp\bin\Debug\netcoreapp2.1\PhongBank.DataAccess.Migrations.DbUp.runtimeconfig.dev.json
+C:\Users\vvphong\source\repos\PhongBank\PhongBank.DataAccess.Migrations.DbUp\bin\Debug\netcoreapp2.1\PhongBank.DataAccess.Migrations.DbUp.dll
+C:\Users\vvphong\source\repos\PhongBank\PhongBank.DataAccess.Migrations.DbUp\bin\Debug\netcoreapp2.1\PhongBank.DataAccess.Migrations.DbUp.pdb
+C:\Users\vvphong\source\repos\PhongBank\PhongBank.DataAccess.Migrations.DbUp\obj\Debug\netcoreapp2.1\PhongBank.DataAccess.Migrations.DbUp.dll
+C:\Users\vvphong\source\repos\PhongBank\PhongBank.DataAccess.Migrations.DbUp\obj\Debug\netcoreapp2.1\PhongBank.DataAccess.Migrations.DbUp.pdb
+C:\Users\vvphong\source\repos\PhongBank\PhongBank.DataAccess.Migrations.DbUp\obj\Debug\netcoreapp2.1\PhongBank.DataAccess.Migrations.DbUp.genruntimeconfig.cache

@@ -1,0 +1,9 @@
+C:\Users\vvphong\source\repos\PhongBank\PhongBank.DTO\bin\Debug\netcoreapp2.1\PhongBank.DTO.deps.json
+C:\Users\vvphong\source\repos\PhongBank\PhongBank.DTO\bin\Debug\netcoreapp2.1\PhongBank.DTO.dll
+C:\Users\vvphong\source\repos\PhongBank\PhongBank.DTO\bin\Debug\netcoreapp2.1\PhongBank.DTO.pdb
+C:\Users\vvphong\source\repos\PhongBank\PhongBank.DTO\obj\Debug\netcoreapp2.1\PhongBank.DTO.csproj.AssemblyReference.cache
+C:\Users\vvphong\source\repos\PhongBank\PhongBank.DTO\obj\Debug\netcoreapp2.1\PhongBank.DTO.AssemblyInfoInputs.cache
+C:\Users\vvphong\source\repos\PhongBank\PhongBank.DTO\obj\Debug\netcoreapp2.1\PhongBank.DTO.AssemblyInfo.cs
+C:\Users\vvphong\source\repos\PhongBank\PhongBank.DTO\obj\Debug\netcoreapp2.1\PhongBank.DTO.csproj.CoreCompileInputs.cache
+C:\Users\vvphong\source\repos\PhongBank\PhongBank.DTO\obj\Debug\netcoreapp2.1\PhongBank.DTO.dll
+C:\Users\vvphong\source\repos\PhongBank\PhongBank.DTO\obj\Debug\netcoreapp2.1\PhongBank.DTO.pdb

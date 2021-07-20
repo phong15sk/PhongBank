@@ -1,0 +1,12 @@
+C:\Users\vvphong\source\repos\PhongBank\PhongBank.DataAccess.Core\bin\Debug\netcoreapp2.1\PhongBank.DataAccess.Core.deps.json
+C:\Users\vvphong\source\repos\PhongBank\PhongBank.DataAccess.Core\bin\Debug\netcoreapp2.1\PhongBank.DataAccess.Core.dll
+C:\Users\vvphong\source\repos\PhongBank\PhongBank.DataAccess.Core\bin\Debug\netcoreapp2.1\PhongBank.DataAccess.Core.pdb
+C:\Users\vvphong\source\repos\PhongBank\PhongBank.DataAccess.Core\bin\Debug\netcoreapp2.1\PhongBank.Core.dll
+C:\Users\vvphong\source\repos\PhongBank\PhongBank.DataAccess.Core\bin\Debug\netcoreapp2.1\PhongBank.Core.pdb
+C:\Users\vvphong\source\repos\PhongBank\PhongBank.DataAccess.Core\obj\Debug\netcoreapp2.1\PhongBank.DataAccess.Core.csproj.AssemblyReference.cache
+C:\Users\vvphong\source\repos\PhongBank\PhongBank.DataAccess.Core\obj\Debug\netcoreapp2.1\PhongBank.DataAccess.Core.AssemblyInfoInputs.cache
+C:\Users\vvphong\source\repos\PhongBank\PhongBank.DataAccess.Core\obj\Debug\netcoreapp2.1\PhongBank.DataAccess.Core.AssemblyInfo.cs
+C:\Users\vvphong\source\repos\PhongBank\PhongBank.DataAccess.Core\obj\Debug\netcoreapp2.1\PhongBank.DataAccess.Core.csproj.CoreCompileInputs.cache
+C:\Users\vvphong\source\repos\PhongBank\PhongBank.DataAccess.Core\obj\Debug\netcoreapp2.1\PhongBank.DataAccess.Core.csproj.CopyComplete
+C:\Users\vvphong\source\repos\PhongBank\PhongBank.DataAccess.Core\obj\Debug\netcoreapp2.1\PhongBank.DataAccess.Core.dll
+C:\Users\vvphong\source\repos\PhongBank\PhongBank.DataAccess.Core\obj\Debug\netcoreapp2.1\PhongBank.DataAccess.Core.pdb

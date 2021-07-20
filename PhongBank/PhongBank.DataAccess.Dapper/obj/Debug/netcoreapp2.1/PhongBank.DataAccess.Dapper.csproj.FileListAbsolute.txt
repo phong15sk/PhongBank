@@ -1,0 +1,14 @@
+C:\Users\vvphong\source\repos\PhongBank\PhongBank.DataAccess.Dapper\bin\Debug\netcoreapp2.1\PhongBank.DataAccess.Dapper.deps.json
+C:\Users\vvphong\source\repos\PhongBank\PhongBank.DataAccess.Dapper\bin\Debug\netcoreapp2.1\PhongBank.DataAccess.Dapper.dll
+C:\Users\vvphong\source\repos\PhongBank\PhongBank.DataAccess.Dapper\bin\Debug\netcoreapp2.1\PhongBank.DataAccess.Dapper.pdb
+C:\Users\vvphong\source\repos\PhongBank\PhongBank.DataAccess.Dapper\bin\Debug\netcoreapp2.1\PhongBank.Core.dll
+C:\Users\vvphong\source\repos\PhongBank\PhongBank.DataAccess.Dapper\bin\Debug\netcoreapp2.1\PhongBank.DataAccess.Core.dll
+C:\Users\vvphong\source\repos\PhongBank\PhongBank.DataAccess.Dapper\bin\Debug\netcoreapp2.1\PhongBank.DataAccess.Core.pdb
+C:\Users\vvphong\source\repos\PhongBank\PhongBank.DataAccess.Dapper\bin\Debug\netcoreapp2.1\PhongBank.Core.pdb
+C:\Users\vvphong\source\repos\PhongBank\PhongBank.DataAccess.Dapper\obj\Debug\netcoreapp2.1\PhongBank.DataAccess.Dapper.csproj.AssemblyReference.cache
+C:\Users\vvphong\source\repos\PhongBank\PhongBank.DataAccess.Dapper\obj\Debug\netcoreapp2.1\PhongBank.DataAccess.Dapper.AssemblyInfoInputs.cache
+C:\Users\vvphong\source\repos\PhongBank\PhongBank.DataAccess.Dapper\obj\Debug\netcoreapp2.1\PhongBank.DataAccess.Dapper.AssemblyInfo.cs
+C:\Users\vvphong\source\repos\PhongBank\PhongBank.DataAccess.Dapper\obj\Debug\netcoreapp2.1\PhongBank.DataAccess.Dapper.csproj.CoreCompileInputs.cache
+C:\Users\vvphong\source\repos\PhongBank\PhongBank.DataAccess.Dapper\obj\Debug\netcoreapp2.1\PhongBank.DataAccess.Dapper.csproj.CopyComplete
+C:\Users\vvphong\source\repos\PhongBank\PhongBank.DataAccess.Dapper\obj\Debug\netcoreapp2.1\PhongBank.DataAccess.Dapper.dll
+C:\Users\vvphong\source\repos\PhongBank\PhongBank.DataAccess.Dapper\obj\Debug\netcoreapp2.1\PhongBank.DataAccess.Dapper.pdb

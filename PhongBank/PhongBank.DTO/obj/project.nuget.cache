@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "jv6YLUA2VIxEQQNgE94goaMuyOiuP8FS2bAx0cGXHL0mGR+AT5w2psmtfYL+GxirXuLccm0MPH2iyu2a31OySg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\vvphong\\source\\repos\\PhongBank\\PhongBank.DTO\\PhongBank.DTO.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\vvphong\\.nuget\\packages\\microsoft.netcore.app\\2.1.0\\microsoft.netcore.app.2.1.0.nupkg.sha512",
+    "C:\\Users\\vvphong\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.1.0\\microsoft.netcore.dotnetapphost.2.1.0.nupkg.sha512",
+    "C:\\Users\\vvphong\\.nuget\\packages\\microsoft.netcore.dotnethostpolicy\\2.1.0\\microsoft.netcore.dotnethostpolicy.2.1.0.nupkg.sha512",
+    "C:\\Users\\vvphong\\.nuget\\packages\\microsoft.netcore.dotnethostresolver\\2.1.0\\microsoft.netcore.dotnethostresolver.2.1.0.nupkg.sha512",
+    "C:\\Users\\vvphong\\.nuget\\packages\\microsoft.netcore.platforms\\2.1.0\\microsoft.netcore.platforms.2.1.0.nupkg.sha512",
+    "C:\\Users\\vvphong\\.nuget\\packages\\microsoft.netcore.targets\\2.1.0\\microsoft.netcore.targets.2.1.0.nupkg.sha512",
+    "C:\\Users\\vvphong\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
